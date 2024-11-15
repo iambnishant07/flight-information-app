@@ -1,5 +1,6 @@
 # flight-information-app
 Project Description
+
 The Flight Information Application is a Java-based GUI application that allows users to manage flight data. The application enables users to input flight details, display them in a table, sort flights by flight number, and export the data to a CSV file. It utilizes the Model-View-Controller (MVC) design pattern with a Flight class to represent the flight data, a FlightTest class to handle data management, and a Form1 class to provide the graphical user interface (GUI) for user interaction.
 ________________________________________
 Installation Instructions
