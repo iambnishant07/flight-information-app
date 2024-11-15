@@ -25,9 +25,13 @@ o	Click the "Add Flight" button to add the flight to the list.
 ________________________________________
 Technologies and Tools Used
 •	Java 8+: Programming language used for building the application.
+
 •	Swing: GUI framework used to design the application interface.
+
 •	JTable: For displaying flight data in a table.
+
 •	FileWriter: Used for exporting the flight data to a CSV file.
+
 •	Maven/Gradle (Optional): For dependency management if required (not used in this basic version, but could be added for future enhancements).
 ________________________________________
 UML Diagram
@@ -38,6 +42,8 @@ ________________________________________
 Credits
 
 •	Java Swing Documentation: For information on using the Swing framework to build GUI applications.
+
 •	UML Tools: The UML diagram was generated using Draw.io for diagramming.
+
 •	CSV Export Logic: Implemented using FileWriter class from Java.
 
