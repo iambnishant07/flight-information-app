@@ -31,10 +31,12 @@ Technologies and Tools Used
 •	Maven/Gradle (Optional): For dependency management if required (not used in this basic version, but could be added for future enhancements).
 ________________________________________
 UML Diagram
+
 You can view the UML diagram for this project by following this link:
-Link to UML Diagram
+[Link to UML Diagram](https://github.com/iambnishant07/flight-information-app/blob/main/UML_Diagram.png)
 ________________________________________
 Credits
+
 •	Java Swing Documentation: For information on using the Swing framework to build GUI applications.
 •	UML Tools: The UML diagram was generated using Draw.io for diagramming.
 •	CSV Export Logic: Implemented using FileWriter class from Java.
